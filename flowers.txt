@@ -3,6 +3,8 @@ Different type of Flowers
 Rose
 Lilly
 lotus
+tulip
+daffodil
 
 
 Thank You :)
